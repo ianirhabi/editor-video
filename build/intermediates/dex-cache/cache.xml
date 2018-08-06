@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/programmerjalanan/AndroidStudioProjects/FFmpeg-Video-Editor-Android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/programmerjalanan/AndroidStudioProjects/FFmpeg-Video-Editor-Android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_ea98020269df1fc9b4707663dd910f62085c76ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/programmerjalanan/AndroidStudioProjects/FFmpeg-Video-Editor-Android/app/build/intermediates/exploded-aar/com.writingminds/FFmpegAndroid/0.3.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="722acae466ccefebedf8a6631384e83bf3139f7c">
+        <dex dex="/home/programmerjalanan/AndroidStudioProjects/FFmpeg-Video-Editor-Android/app/build/intermediates/pre-dexed/debug/com.writingminds-FFmpegAndroid-0.3.2_f1a268e4789177925c273e194e3d13dcaabce541.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/programmerjalanan/AndroidStudioProjects/FFmpeg-Video-Editor-Android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/programmerjalanan/AndroidStudioProjects/FFmpeg-Video-Editor-Android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_564b1db0fed629ef5af2ccb77d827a5e5febcbdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/programmerjalanan/AndroidStudioProjects/FFmpeg-Video-Editor-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/programmerjalanan/AndroidStudioProjects/FFmpeg-Video-Editor-Android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.2.0_01df68f4f7f915e8781cde6e5e056ab2e3dd0695.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/programmerjalanan/AndroidStudioProjects/FFmpeg-Video-Editor-Android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/programmerjalanan/AndroidStudioProjects/FFmpeg-Video-Editor-Android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.2.0_5441e3067664ca4b7072fd9066d13ae800ccc2f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/programmerjalanan/AndroidStudioProjects/FFmpeg-Video-Editor-Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/programmerjalanan/AndroidStudioProjects/FFmpeg-Video-Editor-Android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_1e254dbf255dfdab2a0dcb4011ad80c58ea38bcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/programmerjalanan/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.5/2852e6e05fbb95076fc091f6d1780f1f8fe35e0f/commons-io-2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2852e6e05fbb95076fc091f6d1780f1f8fe35e0f">
+        <dex dex="/home/programmerjalanan/AndroidStudioProjects/FFmpeg-Video-Editor-Android/app/build/intermediates/pre-dexed/debug/commons-io-2.5_722f856e8f9a71d809a54333a5db0f3df51a2fc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/programmerjalanan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/programmerjalanan/AndroidStudioProjects/FFmpeg-Video-Editor-Android/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_1bffc26831d95b8997412d2c144ffcba2519e76a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/programmerjalanan/AndroidStudioProjects/FFmpeg-Video-Editor-Android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/programmerjalanan/AndroidStudioProjects/FFmpeg-Video-Editor-Android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_2e9c495066c3568f6c0035fd736e1a920bbec49f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/programmerjalanan/AndroidStudioProjects/FFmpeg-Video-Editor-Android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="/home/programmerjalanan/AndroidStudioProjects/FFmpeg-Video-Editor-Android/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.2.0_4d213ea4405fdad801c82f22e762dc3e1049624e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/programmerjalanan/AndroidStudioProjects/FFmpeg-Video-Editor-Android/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/home/programmerjalanan/AndroidStudioProjects/FFmpeg-Video-Editor-Android/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.2.0_f01e8ce4cdd7fe402e4cb6efffb6ad3e1d144341.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/programmerjalanan/AndroidStudioProjects/FFmpeg-Video-Editor-Android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/programmerjalanan/AndroidStudioProjects/FFmpeg-Video-Editor-Android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_634df40501b354935fad98c05b46b2b1c9722f7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/programmerjalanan/AndroidStudioProjects/FFmpeg-Video-Editor-Android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/programmerjalanan/AndroidStudioProjects/FFmpeg-Video-Editor-Android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_84cdfdd327d4fdb1c2c0b66ae55d561aaf1fb67a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/programmerjalanan/AndroidStudioProjects/FFmpeg-Video-Editor-Android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/programmerjalanan/AndroidStudioProjects/FFmpeg-Video-Editor-Android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.2.0_cdc6a46fff2a531535d77d2bc60c33fdacc84883.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/programmerjalanan/AndroidStudioProjects/FFmpeg-Video-Editor-Android/app/build/intermediates/exploded-aar/org.florescu.android.rangeseekbar/rangeseekbar-library/0.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b8f19036e690aaf0676a0926db48e3ebaeb12fe4">
+        <dex dex="/home/programmerjalanan/AndroidStudioProjects/FFmpeg-Video-Editor-Android/app/build/intermediates/pre-dexed/debug/org.florescu.android.rangeseekbar-rangeseekbar-library-0.3.0_6d97936771d3e74b9ab675b74d25aed0b4b0c4b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/programmerjalanan/AndroidStudioProjects/FFmpeg-Video-Editor-Android/app/build/intermediates/exploded-aar/com.android.support/transition/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/home/programmerjalanan/AndroidStudioProjects/FFmpeg-Video-Editor-Android/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.2.0_12d1ea4c3fb8cc74068fec6dee3772bae5841f11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/programmerjalanan/AndroidStudioProjects/FFmpeg-Video-Editor-Android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/home/programmerjalanan/AndroidStudioProjects/FFmpeg-Video-Editor-Android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.2.0_21af2588275cd9e08a3753d6283689468e106fff.jar" />
+    </item>
+
+</items>
